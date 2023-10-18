@@ -122,8 +122,7 @@ $ python3 evmarket_india.py
 
 ## :clap: And it's done!
 
-Feel free to mail me for any doubts/query
-:email: chagantivenkataramireddy1@gmail.com
+
 
 ---
 
