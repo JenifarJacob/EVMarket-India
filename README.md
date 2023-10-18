@@ -140,10 +140,7 @@ Follow this format:
 
 This study endeavoured to present EV taxonomy using an a-priori approach to categorize potential EV buyers into  ub-segments of young and educated consumers and tested  eticulously with a blended approach of multivariate and  bivariate techniques
 
-## :heart: Owner
 
-
-## :eyes: License
 
 
 </h1>
