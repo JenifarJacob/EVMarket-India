@@ -132,7 +132,6 @@ You are allowed to cite any part of the code or our dataset. You can use it in y
 
 Follow this format:
 
-- Author's name - Chaganti Reddy
 - Date of publication or update in parentheses.
 - Title or description of document.
 - URL.
@@ -143,9 +142,8 @@ This study endeavoured to present EV taxonomy using an a-priori approach to cate
 
 ## :heart: Owner
 
-Made with :heart:&nbsp; by [Chaganti Reddy](https://github.com/Chaganti-Reddy/)
 
 ## :eyes: License
 
-MIT © [Chaganti Reddy](https://github.com/Chaganti-Reddy/EVMarket-India/blob/master/LICENSE)
+
 </h1>
