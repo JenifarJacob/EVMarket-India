@@ -68,13 +68,6 @@ The dataset is now available [here](data.csv)  !
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](requirements.txt)
 
 ## 🚀&nbsp; Installation
-
-1. Clone the repo
-
-```
-$ git clone https://github.com/Chaganti-Reddy/EVMarket-India.git
-```
-
 2. Change your directory to the cloned repo
 
 ```
